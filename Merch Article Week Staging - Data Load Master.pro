@@ -76,6 +76,8 @@ EXECUTEPROCESS('Merch Article Week Staging - Load Sales and Cost Data',
 'pStartWeek', StartWeek,
 'pEndWeek', EndWeek);
 
+#Test
+
 573,3
 
 #****Begin: Generated Statements***
